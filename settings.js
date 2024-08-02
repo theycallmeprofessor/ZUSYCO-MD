@@ -1,56 +1,50 @@
 /*
 
 
-███████╗██╗░░░██╗░██████╗██╗░░░██╗░█████╗░░█████╗░  ░░░░░░  ███╗░░░███╗██████╗░
-╚════██║██║░░░██║██╔════╝╚██╗░██╔╝██╔══██╗██╔══██╗  ░░░░░░  ████╗░████║██╔══██╗
-░░███╔═╝██║░░░██║╚█████╗░░╚████╔╝░██║░░╚═╝██║░░██║  █████╗  ██╔████╔██║██║░░██║
-██╔══╝░░██║░░░██║░╚═══██╗░░╚██╔╝░░██║░░██╗██║░░██║  ╚════╝  ██║╚██╔╝██║██║░░██║
-███████╗╚██████╔╝██████╔╝░░░██║░░░╚█████╔╝╚█████╔╝  ░░░░░░  ██║░╚═╝░██║██████╔╝
-╚══════╝░╚═════╝░╚═════╝░░░░╚═╝░░░░╚════╝░░╚════╝░  ░░░░░░  ╚═╝░░░░░╚═╝╚═════╝░
+M I R Z A 
 
 
-
-Project Name : ZUSYCO - MD
-Creator : @darkmakerofc , @mr-nima-x 
+Project Name : MIRZA - MD
+Creator : @mirzaonfire , @mr-mirza-x 
 
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  OWNER_NUMBER: "923168066637",
+  SUDO_NUMBERS : "923168066637",
+  OWNER_NAME: "『 M 1 R Z 4 』",
+  BOT_NAME : "M I R Z A ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
-    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
-    GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
+    ALIVE: 'https://i.ibb.co/HxpYkTv/BB.png',
+    WELCOME: https://i.ibb.co/HxpYkTv/BB.pngg',
+    GOODBYE: 'https://i.ibb.co/HxpYkTv/BB.png'
   },
   STOP_SEND : {
-        WELCOME_MESSAGE : false,
-        GOODBYE_MESSAGE : false
+        WELCOME_MESSAGE : true,
+        GOODBYE_MESSAGE : true
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
-  WORK_MODE : "onlygroups",
+  WORK_MODE : "public",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ZUSYCO ]',
+  CAPTION : '© ᴹᴵᴿᶻᴬ ᴬᴸᵂᴬᵞˢ ᴼᴺ ᵀᴼᴾ',
+  STICKER_PACK : '[ MIRZA ]',
   BAD_WORDS : 'fuck,pussy',
-  ANTI_BAD : false,
+  ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
-  ANTI_LINK : false,
-  ANTI_LINK_KICK : false,
+  ANTI_LINK : true,
+  ANTI_LINK_KICK : true,
   MAX_SIZE : 100,
   MOROCCO_NUMBERS : {
         BLOCK : false,
         NOT_WORKING : false,
   },
   READ : {
-     ALL_MESSAGES : true,
+     ALL_MESSAGES : false,
      ONLY_COMMANDS : false,
-     STATUS : false,
+     STATUS : true,
   },
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
