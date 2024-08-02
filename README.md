@@ -1,5 +1,5 @@
 <div align="center" class= "main"> 
-  <img src="https://telegra.ph/file/a3cb3587e86dd31a0bc3d.jpg" width="300" height="300"/>
+  <img src="https://https://d3h48bfc4uelnv.cloudfront.net/avatar-imgs/c59e913b-201b-40e8-8d09-6d235eb97871.jpg" width="300" height="300"/>
   <h1>M I R Z A - ＭＤ</h1>
 
 <a href="https://github.com/theycallmeprofessor"><img title="Creator" src="https://img.shields.io/badge/Creator-Mirza-red.svg?style=for-the-badge&logo=github"></a>
