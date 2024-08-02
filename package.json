@@ -1,7 +1,7 @@
 {
-  "name": "ZUSYCO-MD",
+  "name": "MIRZA-MD",
   "version": "1.5.0",
-  "description": "Simple WhatsApp bot created by DarkMakerofc (mrnima) for Easy Your Works on Whatsapp.",
+  "description": "Simple WhatsApp bot created bymirza (mrstef) for Easy Your Works on Whatsapp.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -13,7 +13,7 @@
     "automation",
     "nodejs"
   ],
-  "author": "DarkMakerofc (mrnima)",
+  "author": "mirzaonfire (stef)",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
@@ -44,10 +44,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DarkMakerofc/ZUSYCO-MD.git"
+    "url": "https://https://github.com/theycallmeprofessor/ZUSYCO-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/DarkMakerofc/ZUSYCO-MD/issues"
+    "url": "https://https://github.com/theycallmeprofessor/ZUSYCO-MD/issues"
   },
-  "homepage": "https://github.com/DarkMakerofc/ZUSYCO-MD#readme"
+  "homepage": "https://https://github.com/theycallmeprofessor/ZUSYCO-MD#readme"
 }
