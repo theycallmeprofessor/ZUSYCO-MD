@@ -14,7 +14,7 @@ module.exports = {
   SUDO_NUMBERS : "923168066637",
   OWNER_NAME: "『 M 1 R Z 4 』",
   BOT_NAME : "M I R Z A ",
-  ZUSYCO_FILE : "ZUSYCO-QR",
+  MIRZA_FILE : "MIRZA-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/HxpYkTv/BB.png',
     WELCOME: https://i.ibb.co/HxpYkTv/BB.pngg',
