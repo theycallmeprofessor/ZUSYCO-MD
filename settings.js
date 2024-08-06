@@ -31,7 +31,7 @@ module.exports = {
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ᴹᴵᴿᶻᴬ ᴬᴸᵂᴬᵞˢ ᴼᴺ ᵀᴼᴾ',
   STICKER_PACK : '[ MIRZA ]',
-  BAD_WORDS : 'fuck,pussy',
+  BAD_WORDS : 'fuck,pussy,lora,gandu,lun,bsdk,mc,bc,lpc,tmkc,randi,randa,ghashti,bhen,chod,bhenchod',
   ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : true,
